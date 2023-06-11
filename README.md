@@ -14,7 +14,7 @@ O tratamento dado as variáveis foi de remoção de colunas que não seriam usad
 
 **Perguntas**:
 
-* O a média de felicidade mundial aumentou de 2015 à 2019 ?
+* A média de felicidade mundial aumentou de 2015 à 2019 ?
 * Países mais generosos tem uma população mais feliz ?
 * Quais os países mais e menos felizes durante 2015 e 2019?
 * Uma população que vive mais é mais feliz ?
